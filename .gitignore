@@ -1,0 +1,6 @@
+.DS_Store
+*.json
+*.egg*
+build
+dist
+test_data
